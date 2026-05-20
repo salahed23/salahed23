@@ -88,7 +88,7 @@ Application de gestion de rendez-vous médicaux (prise & annulation).
 
 ## 🌍 Langues & Atouts
 
-- 🇫🇷 Français | 🇬🇧 Anglais | 🇸🇦 Arabe
+-  Français | Anglais | Arabe
 - ✅ Autonome | Esprit d'équipe | Gestion du stress | Ponctuel
 
 ---
