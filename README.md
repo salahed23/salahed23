@@ -47,7 +47,7 @@
 
 ## 🚀 Projets phares
 
-### 🎓 School-Learning — Projet de fin de Bachelor
+### 🎓 School-Learning — Projet de fin de Bachelor en cours
 Plateforme e-learning complète avec **Laravel (PHP)**, **React** et **MySQL** — 3 rôles : Admin, Enseignant, Étudiant.
 - Gestion de cours, modules, évaluations, notes et planning, upload PDF/vidéo
 - Authentification bcrypt, contrôle d'accès par rôle
@@ -91,14 +91,7 @@ Application de gestion de rendez-vous médicaux (prise & annulation).
 -  Français | Anglais | Arabe
 - ✅ Autonome | Esprit d'équipe | Gestion du stress | Ponctuel
 
----
 
-## 📊 Mes stats GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahed23&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salahed23&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Me contacter
 
