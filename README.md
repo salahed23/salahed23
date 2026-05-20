@@ -47,7 +47,15 @@
 
 ## 🚀 Projets phares
 
-### 🎓 School-Learning — Projet de fin de Bachelor en cours
+### 🧭 Metaboussole — Plateforme de développement personnel (Stage)
+Application web complète développée durant mon stage chez **Association La Grenade** (Mars – Juin 2026).
+- Plateforme de développement personnel avec gestion de cercles communautaires, suivi de progression et journal quotidien
+- **MetaSchool (LMS)** : plateforme e-learning avec gestion de cours, suivi de progression, interfaçage multilingue (FR/EN/DE/NL) et système d'authentification sécurisée
+- Conception et modélisation de la base de données MySQL, développement des API REST, audit de sécurité
+- Stack : **Laravel (PHP)**, HTML/CSS/JavaScript, Intégration Stripe
+- 🔗 [Voir le projet](https://github.com/salahed23/metaboussole)
+
+### 🎓 School-Learning — Projet de fin de Bachelor
 Plateforme e-learning complète avec **Laravel (PHP)**, **React** et **MySQL** — 3 rôles : Admin, Enseignant, Étudiant.
 - Gestion de cours, modules, évaluations, notes et planning, upload PDF/vidéo
 - Authentification bcrypt, contrôle d'accès par rôle
@@ -88,10 +96,17 @@ Application de gestion de rendez-vous médicaux (prise & annulation).
 
 ## 🌍 Langues & Atouts
 
--  Français | Anglais | Arabe
+- 🇫🇷 Français | 🇬🇧 Anglais | 🇸🇦 Arabe
 - ✅ Autonome | Esprit d'équipe | Gestion du stress | Ponctuel
 
+---
 
+## 📊 Mes stats GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahed23&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salahed23&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 ## 📫 Me contacter
 
