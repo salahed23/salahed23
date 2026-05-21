@@ -50,16 +50,31 @@
 ### 🧭 Metaboussole — Plateforme de développement personnel (Stage)
 Application web complète développée durant mon stage chez **Association La Grenade** (Mars – Juin 2026).
 - Plateforme de développement personnel avec gestion de cercles communautaires, suivi de progression et journal quotidien
-- **MetaSchool (LMS)** : plateforme e-learning avec gestion de cours, suivi de progression, interfaçage multilingue (FR/EN/DE/NL) et système d'authentification sécurisée
-- Conception et modélisation de la base de données MySQL, développement des API REST, audit de sécurité
-- Stack : **Laravel (PHP)**, HTML/CSS/JavaScript, Intégration Stripe
+- Intégration Stripe, messagerie, système d'événements et d'abonnements
+- Stack : **Laravel (PHP)**, HTML/CSS/JavaScript
 - 🔗 [Voir le projet](https://github.com/salahed23/metaboussole)
 
-### 🎓 School-Learning — Projet de fin de Bachelor
+### 🎓 LMS Metaboussole — Plateforme e-learning (Stage)
+Plateforme e-learning **MetaSchool** développée durant mon stage chez **Association La Grenade** (Mars – Juin 2026).
+- Gestion de cours, suivi de progression des compétences, interfaçage multilingue (FR/EN/DE/NL)
+- Système d'authentification sécurisée, conception et modélisation de la base de données MySQL
+- Développement des API REST, audit de sécurité des applications
+- Stack : **Laravel (PHP)**, React, MySQL
+- 🔗 [Voir le projet](https://github.com/salahed23/lms-metaboussole)
+
+### 🎟️ Ticket Master — Site web de gestion de tickets
+Plateforme de gestion de tickets et de support client.
+- **Backend** : Application Java reliée à une base MySQL (gestion CRUD des données)
+- **Interface** : client léger PHP/HTML/CSS permettant la consultation et la mise à jour en temps réel
+- **Optimisation** : procédures stockées et index pour améliorer les performances des requêtes
+- 🔗 [Voir le projet](https://github.com/salahed23/ticketmaster)
+
+### 🏫 School-Learning — Projet de fin de Bachelor
 Plateforme e-learning complète avec **Laravel (PHP)**, **React** et **MySQL** — 3 rôles : Admin, Enseignant, Étudiant.
 - Gestion de cours, modules, évaluations, notes et planning, upload PDF/vidéo
 - Authentification bcrypt, contrôle d'accès par rôle
 - Modélisation complète : MCD, dictionnaire de données, diagrammes UML (use case, classes)
+- 🔗 [Voir le projet](https://github.com/salahed23/school-learning-pfe)
 
 ### 🏥 Projet Full-Stack inspiré du modèle Doctolib
 Application de gestion de rendez-vous médicaux (prise & annulation).
@@ -67,11 +82,6 @@ Application de gestion de rendez-vous médicaux (prise & annulation).
 - **Frontend** : Interface réactive React avec moteur de recherche par spécialité et localisation
 - **Déploiement** : Serveur Linux, Docker, domaine + certificat SSL
 - Authentification JWT, envoi d'e-mails de confirmation, mise en cache des requêtes fréquentes
-
-### 🎟️ Création de site Web Ticket Master
-- Backend Java relié à MySQL (gestion CRUD des données)
-- Interface PHP/HTML/CSS pour consultation et mise à jour en temps réel
-- Procédures stockées et index pour améliorer les performances des requêtes
 
 ---
 
